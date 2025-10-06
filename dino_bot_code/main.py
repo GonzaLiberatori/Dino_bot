@@ -9,8 +9,9 @@ jump_cooldown = 0.1     # min time between jumps
 last_jump = 0
 
 print("Initialized bot, open chrome with the game and leave it visible")
+print("Please initialize chrome in mode window and white template")
 
-time.sleep(3) #3 seconds pause
+time.sleep(5) #3 seconds pause
 
 import pygetwindow as gw
 

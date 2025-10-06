@@ -11,5 +11,5 @@ obstacle_limit = 100
 #Area that the bot detects
 scan_x_start = 265 
 scan_y_start = 265
-scan_width = 90
+scan_width = 100
 scan_height = 30
