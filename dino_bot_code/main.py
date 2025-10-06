@@ -5,7 +5,7 @@ import numpy as np
 import time
 import pygetwindow as gw
 
-jump_cooldown = 0.1     # tiempo mínimo entre saltos en segundos
+jump_cooldown = 0.1     # min time between jumps
 last_jump = 0
 
 print("Initialized bot, open chrome with the game and leave it visible")
