@@ -42,7 +42,7 @@ To start the bot, run the main script `main.py`:
 
 ```bash
 python dino_bot_code/main.py
-
+```
 ### Important Usage Instructions
 
 For the bot to function correctly, follow these essential steps:
